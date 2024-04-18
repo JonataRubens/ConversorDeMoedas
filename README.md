@@ -1,4 +1,4 @@
-Este é um código em Java que tenta converter um valor de uma moeda para outra usando uma API de taxas de câmbio. Vou explicar as principais partes do código:
+Este é um código em Java que tenta converter um valor de uma moeda para outra usando uma API de taxas de câmbio.
 
 1. **Pacote e Importações**:
    - O código está no pacote `Converter`.
